@@ -1,0 +1,93 @@
+<DPSerialization>
+<complexType xsi:type="genericCheckpointing.util.MyAllTypesFirst">
+ <myInt xsi:type="xsd:int">35</myInt>
+ <myString xsi:type="xsd:string">awcba</myString>
+ <myBool xsi:type="xsd:boolean">true</myBool>
+  <myOtherLong xsi:type="xsd:long">4315174971832079473</myOtherLong>
+</complexType>
+</DPSerialization>
+<DPSerialization>
+<complexType xsi:type="genericCheckpointing.util.MyAllTypesSecond">
+ <myDoubleT xsi:type="xsd:double">392.94869228960033</myDoubleT>
+  <myOtherDoubleT xsi:type="xsd:double">3214.5013067635305</myOtherDoubleT>
+ <myFloatT xsi:type="xsd:float">0.25898564</myFloatT>
+ <myShortT xsi:type="xsd:short">0</myShortT>
+  <myOtherShortT xsi:type="xsd:short">0</myOtherShortT>
+ <myCharT xsi:type="xsd:char">L</myCharT>
+</complexType>
+</DPSerialization>
+<DPSerialization>
+<complexType xsi:type="genericCheckpointing.util.MyAllTypesFirst">
+ <myInt xsi:type="xsd:int">98</myInt>
+ <myString xsi:type="xsd:string">aucba</myString>
+ <myBool xsi:type="xsd:boolean">true</myBool>
+  <myOtherInt xsi:type="xsd:int">224</myOtherInt>
+</complexType>
+</DPSerialization>
+<DPSerialization>
+<complexType xsi:type="genericCheckpointing.util.MyAllTypesSecond">
+ <myDoubleT xsi:type="xsd:double">1042.3686857956702</myDoubleT>
+  <myOtherDoubleT xsi:type="xsd:double">2067.0969231331355</myOtherDoubleT>
+ <myFloatT xsi:type="xsd:float">0.8203582</myFloatT>
+ <myShortT xsi:type="xsd:short">5280</myShortT>
+  <myOtherShortT xsi:type="xsd:short">27402</myOtherShortT>
+ <myCharT xsi:type="xsd:char">I</myCharT>
+</complexType>
+</DPSerialization>
+<DPSerialization>
+<complexType xsi:type="genericCheckpointing.util.MyAllTypesFirst">
+ <myInt xsi:type="xsd:int">799</myInt>
+ <myLong xsi:type="xsd:long">75215056485498065</myLong>
+ <myString xsi:type="xsd:string">ajcba</myString>
+ <myBool xsi:type="xsd:boolean">true</myBool>
+  <myOtherInt xsi:type="xsd:int">3040</myOtherInt>
+</complexType>
+</DPSerialization>
+<DPSerialization>
+<complexType xsi:type="genericCheckpointing.util.MyAllTypesSecond">
+ <myDoubleT xsi:type="xsd:double">39.72115350360333</myDoubleT>
+  <myOtherDoubleT xsi:type="xsd:double">802.3818085592833</myOtherDoubleT>
+ <myFloatT xsi:type="xsd:float">0.8629621</myFloatT>
+ <myShortT xsi:type="xsd:short">-15472</myShortT>
+  <myOtherShortT xsi:type="xsd:short">7454</myOtherShortT>
+ <myCharT xsi:type="xsd:char">S</myCharT>
+</complexType>
+</DPSerialization>
+<DPSerialization>
+<complexType xsi:type="genericCheckpointing.util.MyAllTypesFirst">
+ <myInt xsi:type="xsd:int">434</myInt>
+ <myString xsi:type="xsd:string">agcba</myString>
+ <myBool xsi:type="xsd:boolean">false</myBool>
+  <myOtherInt xsi:type="xsd:int">3186</myOtherInt>
+  <myOtherLong xsi:type="xsd:long">1802048312282909938</myOtherLong>
+</complexType>
+</DPSerialization>
+<DPSerialization>
+<complexType xsi:type="genericCheckpointing.util.MyAllTypesSecond">
+ <myDoubleT xsi:type="xsd:double">454.6075143746334</myDoubleT>
+  <myOtherDoubleT xsi:type="xsd:double">1433.2305583876798</myOtherDoubleT>
+ <myFloatT xsi:type="xsd:float">0.66671175</myFloatT>
+ <myShortT xsi:type="xsd:short">28823</myShortT>
+  <myOtherShortT xsi:type="xsd:short">20249</myOtherShortT>
+ <myCharT xsi:type="xsd:char">G</myCharT>
+</complexType>
+</DPSerialization>
+<DPSerialization>
+<complexType xsi:type="genericCheckpointing.util.MyAllTypesFirst">
+ <myInt xsi:type="xsd:int">45</myInt>
+ <myLong xsi:type="xsd:long">6080080439468121097</myLong>
+ <myString xsi:type="xsd:string">ascba</myString>
+ <myBool xsi:type="xsd:boolean">true</myBool>
+  <myOtherInt xsi:type="xsd:int">12112</myOtherInt>
+</complexType>
+</DPSerialization>
+<DPSerialization>
+<complexType xsi:type="genericCheckpointing.util.MyAllTypesSecond">
+ <myDoubleT xsi:type="xsd:double">963.6572740598357</myDoubleT>
+  <myOtherDoubleT xsi:type="xsd:double">1825.8146996803464</myOtherDoubleT>
+ <myFloatT xsi:type="xsd:float">0.21074933</myFloatT>
+ <myShortT xsi:type="xsd:short">31740</myShortT>
+  <myOtherShortT xsi:type="xsd:short">2176</myOtherShortT>
+ <myCharT xsi:type="xsd:char">E</myCharT>
+</complexType>
+</DPSerialization>
