@@ -1,3 +1,3 @@
 # Design_Pattern
 
-### Please See inside each Assignment for the description.
+### Please see inside each Assignment for the description.
