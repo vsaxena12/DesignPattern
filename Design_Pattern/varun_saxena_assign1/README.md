@@ -5,7 +5,7 @@
 -----------------------------------------------------------------------
 
 
-Following are the commands and the instructions to run ANT on your project.
+Following are the commands and the instructions to run ANT on your project:
 #### Note: build.xml is present in coursesRegistration/src folder.
 
 -----------------------------------------------------------------------

@@ -5,7 +5,7 @@
 -----------------------------------------------------------------------
 
 
-Following are the commands and the instructions to run ANT on your project.
+Following are the commands and the instructions to run ANT on your project:
 #### Note: build.xml is present in findPrime/src folder.
 
 -----------------------------------------------------------------------
@@ -30,7 +30,6 @@ Description: Compiles your code and generates .class files inside the BUILD fold
 
 Note: Arguments accept the absolute path of the files.
 
-
 -----------------------------------------------------------------------
 ## Description:
 ####Data Structure: Vector.
@@ -42,7 +41,7 @@ Note: Arguments accept the absolute path of the files.
 ####Implemented Thread Pool Design Pattern. 
 ####Output values follows on the input file, NUM_THREAD and DEBUG_VALUE.
 -----------------------------------------------------------------------
-### Academic Honesty statement:
+### Academic Honesty statement: 
 -----------------------------------------------------------------------
 
 "I have done this assignment completely on my own. I have not copied
@@ -52,4 +51,5 @@ submitted to the Academic Honesty Committee of the Watson School to
 determine the action that needs to be taken. "
 
 Date: -- October 28, 2018
+
 
