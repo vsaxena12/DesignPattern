@@ -33,10 +33,11 @@ Note: Arguments accept the absolute path of the files.
 
 -----------------------------------------------------------------------
 ### References:
-https://www.journaldev.com/1769/visitor-design-pattern-java
-https://www.programmingsimplified.com/java/source-code/java-program-check-palindrome 
+#### https://www.journaldev.com/1769/visitor-design-pattern-java
 
-https://www.javatpoint.com/prime-number-program-in-java
+#### https://www.programmingsimplified.com/java/source-code/java-program-check-palindrome 
+
+#### https://www.javatpoint.com/prime-number-program-in-java
 -----------------------------------------------------------------------
 ### Academic Honesty statement:
 -----------------------------------------------------------------------
